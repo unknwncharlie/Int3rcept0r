@@ -27,11 +27,11 @@ It works using the Raspberry Pi Zeros' support for USB gadget modes. It uses the
 
 
 ## Requirements
--Raspberry Pi Zero with header pins
--Female to Female Jumper cables
--ENC28J60 Ethernet shield, 10 pin version
--Micro USB to USB cable
--Micro SD card 8GB plus
+- Raspberry Pi Zero with GPIO headers
+- Female to Female Jumper cables
+- ENC28J60 Ethernet shield, 10 pin version can be found [here](https://www.amazon.co.uk/SunFounder-ENC28J60-Ethernet-Network-Arduino/dp/B00GAXAQOQ/ref=sr_1_1?ie=UTF8&qid=1503523823&sr=8-1&keywords=enc28j60)
+- Micro USB to USB cable
+- Micro SD card 8GB plus
 
 ## Set Up
 Follow these instructions to set up the Int3rcept0r Gadget.
