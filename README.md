@@ -155,6 +155,10 @@ Now if you type ```ls``` you should see that there is a file called Int3rcept0r.
 Finally you need to run ```cd Int3rcept0r```
 Now run ```cd rev_net```
 Now run ```sudo chmod +x nc.sh```
+Now run ```cd /home/pi/Int3rcept0r/pas```
+and then run ```sudo mkdir log```
+Now run ```cd /home/pi/Int3rcept0r/arp```
+and then run ```sudo mkdir log```
 Once you have done all this the set up is complete and you have a fully working Int3rcept0r Gadget
 
 ## Usage
