@@ -3,6 +3,8 @@ Raspberry Pi Zero as a USB to Ethernet Gadget that can capture and hijack traffi
 
 [Donate and help me fund future projects](https://www.justgiving.com/crowdfunding/cupcaken1nja)
 
+![Int3rcept0r Gadget](http://i.imgur.com/iLuLjNZ.jpg)
+
 This is a Raspberry Pi Zero and Ethernet shield that has functionality similar to the Hak 5 Lan Turtle.
 It is recognised and acts as a USB to Ethernet adaptor and captures traffic that is passed through it. I have created a pretty basic script to automatically use certain tools on boot as well as multiple options for remote Administration.
 This tool is to only be used with permission and not for illegal use.
@@ -58,6 +60,7 @@ But only follow the wiring instructions.
 
 Make sure your micro USB to USB cable is plugged into the micro USB slot that has USB written next to it and not PWR!
 
+![Completed Hardware setup](http://i.imgur.com/Tqo1Y2B.jpg)
 ### Software
 Once you have connected the Raspberry Pi and ENC28J60 together you will need to image a micro SD card with the latest version of Rasbian Jessie. The Rasbian download page can be found [here](rasbian download link)
 You can use either the lite version or the Desktop version however I found that the Desktop version download is corrupted so i would recommend using the lite version.
